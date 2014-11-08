@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hola Mundo</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="Boton1">uno</string>
+    <string name="Boton2">dos</string>
+    <string name="Boton3">tres</string>
+    <string name="mensaje">Has pulsado %1$s</string>    
+
+</resources>
